@@ -10,18 +10,18 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "axe-core": "latest",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "axe-core": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "typescript": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
-    "playwright": "latest"
+    "playwright": "^1.57.0",
+    "typescript": "latest"
   }
 }
