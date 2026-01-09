@@ -13,7 +13,8 @@
     "axe-core": "latest",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "playwright": "^1.57.0"
   },
   "devDependencies": {
     "@types/node": "latest",
